@@ -77,6 +77,6 @@ z + \frac{1}{z} = 2\cos(\theta)
 \$$
 
 
-## Visulization Proof:
+## Visualization Proof:
 
-[![visulization](https://raw.githubusercontent.com/OssieLin/complex-numbers-with-cosine-identity/main/visulization.gif)](https://www.geogebra.org/m/ajssj52s)
+[![visualization](https://raw.githubusercontent.com/OssieLin/complex-numbers-with-cosine-identity/main/visualization.gif)](https://www.geogebra.org/m/ajssj52s)
