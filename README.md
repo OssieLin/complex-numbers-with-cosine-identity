@@ -75,3 +75,7 @@ Thus, we have proven:
 $$\
 z + \frac{1}{z} = 2\cos(\theta)
 \$$
+
+
+## Visulization Proof:
+
