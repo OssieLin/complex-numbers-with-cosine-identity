@@ -76,7 +76,7 @@ $$\
 z + \frac{1}{z} = 2\cos(\theta)
 \$$
 
-### This proof uses the case where $$\ z = \cos(\theta) + i \sin(\theta) \$$, but it applies to all because no matter how the modulus(length) of the complex number changes, the value of cosine remains.
+### This proof uses the case where $$\ z = \cos(\theta) + i \sin(\theta) \$$, and it only holds true when the modulus(length) of the complex number is one.
 
 
 ## Visualization Proof:
