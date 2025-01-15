@@ -81,4 +81,5 @@ z + \frac{1}{z} = 2\cos(\theta)
 
 ## Visualization Proof:
 
-[![visualization](https://raw.githubusercontent.com/OssieLin/complex-numbers-with-cosine-identity/main/visualization.gif)](https://www.geogebra.org/m/ajssj52s)
+[![visualization](https://raw.githubusercontent.com/OssieLin/complex-numbers-with-cosine-identity/main/visualization.gif)](https://www.geogebra.org/m/ajssj52s)[![visualization](https://raw.githubusercontent.com/OssieLin/complex-numbers-with-cosine-identity/main/visulization_different_modulus.gif)](https://www.geogebra.org/m/pn5jwprt)
+
